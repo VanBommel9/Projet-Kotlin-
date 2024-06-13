@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projet_kotlin</string>
+    <string name="flag">Drapeau</string>
+    <string name="full_name">Nom complet: %1$s</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="region">Région: %1$s</string>
+    <string name="subregions">Sous-régions: %1$s</string>
+    <string name="currency">Devise: %1$s</string>
+    <string name="demonym">Démonyme: %1$s</string>
+    <string name="languages">Langues: %1$s</string>
+</resources>
